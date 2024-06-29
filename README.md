@@ -57,7 +57,7 @@ The final phase involved deploying various network services, including a web ser
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/computer-networking-reports.git
+    git clone https://github.com/MrNeto17/computer-networking-reports.git
     ```
 2. Navigate to the desired project phase directory to view the report and associated files.
 
