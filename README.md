@@ -43,6 +43,7 @@ In the third phase, we focused on connecting multiple networks using routers. Th
 ### Phase 4: Advanced LAN Configuration
 
 The final phase involved deploying various network services, including a web server, DNS, and DHCP. This phase built upon the previous phases by adding essential network services to support the network's operation and management.
+
 [Phase 4 Report](phase4/Report.pdf)
 
 ## Tools and Technologies
