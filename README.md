@@ -1,6 +1,7 @@
-# Networking Reports
+#Computer Networking Reports
 
 Computer Networking Curricular Unit (Computer Engineering Bachelor)
+
 In this repository I have my 4 reports made in the second semester of Computer Engineering Graduation.
 These reports were evaluated with a 18.25 out of 20 grades in my practical aspect of the "Computer Networking" class.
 
