@@ -68,5 +68,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out with any questions or feedback regarding the projects or reports. Enjoy exploring the intricacies of computer networking through these reports!
+Feel free to reach out with any questions or feedback regarding the projects or reports.
 
